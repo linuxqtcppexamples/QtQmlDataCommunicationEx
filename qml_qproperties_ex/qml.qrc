@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>controls/PopupDialog.qml</file>
+        <file>controls/CustomButton.qml</file>
+        <file>controls/PropertyAlias.qml</file>
+        <file>controls/QtComponentBinding.qml</file>
+    </qresource>
+</RCC>
